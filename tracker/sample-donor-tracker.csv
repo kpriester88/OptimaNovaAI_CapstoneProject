@@ -1,0 +1,9 @@
+Donor ID,First Name,Email,Preferred Language,Gift Date,Amount,Donor Type,Designation / Program (optional),Special Note from Donor (optional),Missing Info (auto),Data Check (auto),Priya's Review,Reviewer Notes,Reviewed On,Date Sent,Gmail Draft ID,Send Status (auto),Tribute: who it's for (optional),Tribute Type (needed if Tribute is filled)
+EXAMPLE,Sample,sample.donor@example.com,English,"Nov 2, 2026",$25.00,First-time,,Example only: delete or overwrite this row.,,Complete,Not reviewed,,,,,No Gmail draft yet,,
+LS-001,Sam,sam.test@example.com,English,"Nov 2, 2026",$500.00,First-time,Community Outreach,,,Complete,Not reviewed,,,,,No Gmail draft yet,,
+LS-002,Maya,maya.test@example.com,English,,$75.00,,Youth Program,,Gift date; First-time/Repeat;,Incomplete,Not reviewed,,,,,No Gmail draft yet,,
+LS-003,Lucía,lucia.test@example.com,Spanish,"Nov 4, 2026",$80.00,Repeat,Food Pantry,,,Complete,Not reviewed,,,,,No Gmail draft yet,,
+LS-004,Widlyne,widlyne.test@example.com,Haitian Creole,"Nov 4, 2026",$200.00,,Youth Program,,First-time/Repeat;,CHECK: marked ready but info missing,Ready to send,,,,,No Gmail draft yet,,
+LS-006,Mike,mike.test@example.com,,"Nov 3, 2026",$40.00,,,,Language; First-time/Repeat;,Incomplete,Not reviewed,,,,,No Gmail draft yet,,
+LS-014,Taylor,taylor.test@example.com,English,,,,,,Gift date; Amount; First-time/Repeat;,Incomplete,Not reviewed,,,,,No Gmail draft yet,,
+LS-028,Mary,,English,,$40.00,First-time,,,Email; Gift date;,Incomplete,Not reviewed,,,,,No Gmail draft yet,,
